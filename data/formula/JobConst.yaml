@@ -1,0 +1,132 @@
+JobDefinition:
+
+  Novice:
+    MaxLevel: 220
+    Grade: Special
+    AvailableWeapons:
+      - All
+    AvailableArmors:
+      - Cloth
+      - Leather
+      - Metal
+
+  Fighter:
+    MaxLevel: 100
+    Grade: First
+    AvailableWeapons:
+      - Sword
+    AvailableArmors:
+      - Leather
+
+  Acolyte:
+    MaxLevel: 100
+    Grade: First
+    AvailableWeapons:
+      - Wand
+    AvailableArmors:
+      - Cloth
+
+  Archer:
+    MaxLevel: 100
+    Grade: First
+    AvailableWeapons:
+      - Bow
+    AvailableArmors:
+      - Leather
+
+  Mage:
+    MaxLevel: 100
+    Grade: First
+    AvailableWeapons:
+      - Wand
+    AvailableArmors:
+      - Cloth
+
+  Cleric:
+    MaxLevel: 150
+    Grade: Second
+    AvailableWeapons:
+      - Wand
+    AvailableArmors:
+      - Cloth
+
+  Hunter:
+    MaxLevel: 150
+    Grade: Second
+    AvailableWeapons:
+      - Dagger
+      - Sword
+    AvailableArmors:
+      - Leather
+
+  Ranger:
+    MaxLevel: 150
+    Grade: Second
+    AvailableWeapons:
+      - Bow
+    AvailableArmors:
+      - Leather
+
+  Wizard:
+    MaxLevel: 150
+    Grade: Second
+    AvailableWeapons:
+      - Wand
+    AvailableArmors:
+      - Cloth
+
+  Knight:
+    MaxLevel: 150
+    Grade: Second
+    AvailableWeapons:
+      - Sword
+    AvailableArmors:
+      - Leather
+      - Metal
+
+  Warrior:
+    MaxLevel: 150
+    Grade: Second
+    AvailableWeapons:
+      - Axe
+      - GreatSword
+    AvailableArmors:
+      - Leather
+      - Metal
+
+  SpellRefactor:
+    MaxLevel: 180
+    Grade: Third
+    AvailableWeapons:
+      - Sword
+      - Wand
+      - Grimoire
+      - Shield
+    AvailableArmors:
+      - Leather
+      - Metal
+
+  Guardian:
+    MaxLevel: 180
+    Grade: Third
+    AvailableWeapons:
+      - Sword
+      - Spear
+    AvailableArmors:
+      - Metal
+
+  Priest:
+    MaxLevel: 180
+    Grade: Third
+    AvailableWeapons:
+      - Wand
+    AvailableArmors:
+      - Cloth
+
+  StellaShaft:
+    MaxLevel: 180
+    Grade: Third
+    AvailableWeapons:
+      - Bow
+    AvailableArmors:
+      - Leather
