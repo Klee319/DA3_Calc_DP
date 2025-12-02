@@ -195,7 +195,7 @@ Wizard:
   ノンエレメント・エクスプロード・烈:
     BaseDamageType: ["Wand"]
     Hits: 1
-    Damage: "(BaseDamage.Wand + UserMind*2 * 5) * 3.2"
+    Damage: "(BaseDamage.Wand + UserMP * 5) * 3.2"
 
 # ------------------------
 # レンジャー（上位）
